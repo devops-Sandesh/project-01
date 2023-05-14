@@ -1,0 +1,8 @@
+This is linux class 01 
+We learn linux 
+in AWS 
+EC2
+
+:w is for saving the file
+
+again writing by going to insert mode
